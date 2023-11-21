@@ -18,6 +18,7 @@ Bootstrap-css의 템플릿 이용(html 파일과 css 파일을 따로 두고 lin
 LOG IN 버튼을 눌러주면 아래와 같이
 
 ![loginerrorAnimation](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/14e14290-6eb6-4332-9bbe-6456ac2f02f4)
+
 실패한다.
 
 ----------------------------------------------------------
