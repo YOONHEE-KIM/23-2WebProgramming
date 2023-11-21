@@ -16,7 +16,9 @@ Bootstrap-css의 템플릿 이용(html 파일과 css 파일을 따로 두고 lin
 <img width="1536" src="https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/027e4cc9-1038-4c37-8139-4b836b3b0a42.png"/>
 
 LOG IN 버튼을 눌러주면 아래와 같이
-<img width="1536" alt="loginerrorAnimation" src="https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/c9eb08a1-25c0-47d9-8ee7-a2c590a40c34.png"/>
+<img width="1536" alt="loginerrorAnimation" src="https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/c9eb08a1-25c0-47d9-8ee7-a2c590
+a40c34.png"/>
+![loginerrorAnimation](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/14e14290-6eb6-4332-9bbe-6456ac2f02f4)
 실패한다.
 
 ----------------------------------------------------------
