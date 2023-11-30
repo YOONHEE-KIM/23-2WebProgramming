@@ -21,10 +21,14 @@ php와 mysql로 관리자와 유저 로그인 페이지를 만들었다. php 파
 
 4일동안 열심히 서치해서 여러 방법들을 적용해봤지만 계속 연결 실패
 
-- 결국 해결은 Mysql이 실행되고 있는 포트를 전부 죽이고 다시 재실행하는 방식으로 했다. (이전에도 같은 방법을 사용했는데 과정에서 문제가 있었는지 해결이 안됐음.)
+- 결국 해결은 Mysql이 실행되고 있는 포트를 사용하는 프로세스를 전부 죽이고 다시 재실행하는 방식으로 했다. (이전에도 같은 방법을 사용했는데 과정에서 문제가 있었는지 해결이 안됐음.)
 ![image](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/6ca09f59-6955-414c-9822-71497c80708e)
 
 
 ## 결과물
+![image](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/d345b9f4-b04a-44c9-9900-9a2e81878c97)
+
+![image](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/d077ea82-f118-40ff-bf9c-fe45739b3224)
+
 ![image](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/6dca2a2c-3275-493e-a98b-320377c9c704)
 
