@@ -58,13 +58,13 @@
    if (($value % 2) == 1) print "odd";
    else print "even";
 ?>
-</pre>
 </code>
+</pre>
+
 
 ### 코드실행결과
 ![image](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/84811502-6eaa-4a75-888f-436312b44f19)
 
 
----
 
 
