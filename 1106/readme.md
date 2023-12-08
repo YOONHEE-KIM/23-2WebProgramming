@@ -1,7 +1,5 @@
 # 1106
 ## Index
-- [1106](#1106)
-  - [Index](#index)
 - [PHP알아보기](#php알아보기)
   - [1. 동적 웹페이지와 정적 웹페이지의 차이를 설명하시오.](#1-동적-웹페이지와-정적-웹페이지의-차이를-설명하시오)
   - [2. PHP에 설치된 모듈(20개)은 어떤 것이 있는지 조사하시오.](#2-php에-설치된-모듈20개은-어떤-것이-있는지-조사하시오)
@@ -36,7 +34,12 @@
 ## 변수의 홀/짝 여부 판별하는 함수
 1. $a라는 변수의 값이 홀수이면 그 숫자 다음 숫자인 짝수를 출력하고, $a의 값이 짝수이면 그 수를 출력하는 함수를 작성하고 테스트하시오.
 ### 코드실행결과
+  > 홀수
+![1 variable(odd)](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/c5555c9e-b841-4104-a1d9-2ef2ea6c8387)
 
+
+  > 짝수
+![1 variable(even)](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/7b6dd12e-4248-4028-9302-9543cd8ac9e1)
 
 ---
 ## while문으로 factorial값 구하기
@@ -56,7 +59,9 @@
 ?>
 </pre>
 </code>
+
 ### 코드실행결과
+![image](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/84811502-6eaa-4a75-888f-436312b44f19)
 
 
 ---
