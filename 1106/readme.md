@@ -45,6 +45,7 @@
 ## while문으로 factorial값 구하기
 2. while문을 이용하여 factorial 값을 구하는 함수를 작성하고 테스트하시오.
 ### 코드실행결과
+![2 while](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/18c70d5e-cf78-46cb-9ddc-29b3122dadb0)
 
 
 ---   
