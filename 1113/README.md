@@ -49,7 +49,7 @@ A
 ![image](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/c200e5cd-a623-4123-ac7f-04ab10a2130c)
 
 
-   3. while문을 이용해 각 줄을 세고, 단어와 글자를 세는 코드를 작성한다.
+   2. while문을 이용해 각 줄을 세고, 단어와 글자를 세는 코드를 작성한다.
 ![image](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/c95735b9-fc42-4d4a-a2b9-3a2543885f10)
 
 ---
@@ -87,6 +87,8 @@ Jung   Kwangju, Chunchon, Wonju
 ---------
 ### 코드 실행 결과
    1. 'client.txt' 파일을 만든다.
+
+![image](https://github.com/YOONHEE-KIM/23-2WebProgramming/assets/124634807/42b44d8e-cbc7-4baa-961d-a45e398c8c06)
 
    2. 파일을 열고, 파일 내용을 줄 단위로 읽어, 탭 문자로 분리하는 코드를 작성했다.
    
