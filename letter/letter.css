@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: 'Arial', sans-serif;
+}
+
+#background {
+    width: 100%;
+    height: 100%;
+    background: url('snow.jpg') no-repeat center center fixed;
+    background-size: cover;
+    position: absolute;
+}
+
+#memoContainer {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#memo {
+    width: 300px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+#paperAirplane {
+    width: 100px;
+    height: 100px;
+    background: url('paper_airplane.png') no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(360deg);
+    transition: transform 2s ease-in-out;
+}
+
+.hidden {
+    display: none;
+}
