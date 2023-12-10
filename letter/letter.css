@@ -21,6 +21,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    opacity: 0; /* 초기에는 투명한 상태로 시작 */
+    transition: opacity 0.5s ease-out; /* 페이드 인/아웃 효과를 위한 트랜지션 설정 */
 }
 
 #memo {
@@ -42,8 +44,5 @@ body {
 }
 
 .hidden {
-    display: none;
-}
-#paperAirplane.hidden {
     display: none;
 }
