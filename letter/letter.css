@@ -44,3 +44,6 @@ body {
 .hidden {
     display: none;
 }
+#paperAirplane.hidden {
+    display: none;
+}
