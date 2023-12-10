@@ -1,2 +1,2 @@
-# 수업시간에 배운 내용 활용
-## 메모장 페이지 만들기 
+# 23-2WebProgramming
+https://yoonhee-kim.github.io/23-2WebProgramming/
